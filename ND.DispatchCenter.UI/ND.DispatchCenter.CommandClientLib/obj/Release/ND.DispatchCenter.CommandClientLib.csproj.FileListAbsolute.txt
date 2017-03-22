@@ -1,0 +1,24 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.dll.config
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\FastSocket.Client.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\FastSocket.Client.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\FastSocket.Client.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Release\ND.DispatchCenter.CommandClientLib.pdb

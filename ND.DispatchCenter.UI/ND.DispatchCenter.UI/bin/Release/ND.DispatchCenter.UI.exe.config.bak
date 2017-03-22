@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  
+<!--第三方section配置-->
+  <configSections>
+    <section name="socketServer"
+             type="Sodao.FastSocket.Server.Config.SocketServerConfig, FastSocket.Server"/>
+  
+  </configSections>
+
+   <!--Socket Server配置节点-->
+  <socketServer>
+    <servers>
+      <!--Socket Server执行端口-->
+      <!--<server name="excutePort"
+            port="2001"
+            socketBufferSize="1024000"
+            messageBufferSize="1024000"
+            maxMessageSize="1024000"
+            maxConnections="20000"
+            serviceType=" ND.DispatchCenter.Core.ListenerModule.ExcuteSocketServerService,ND.DispatchCenter.Core"
+            protocol="commandLine"/>-->
+      
+      <!--Socket Server查询端口-->
+      <server name="quickStart"
+              port="2000"
+              socketBufferSize="2048"
+              messageBufferSize="2048"
+              maxMessageSize="2048"
+              maxConnections="20000"
+              serviceType=" ND.DispatchCenter.Core.ListenerModule.SocketServerService,ND.DispatchCenter.Core"
+              protocol="commandLine"/>
+      
+    
+    </servers>
+
+   
+ 
+  </socketServer>
+
+  <appSettings>
+    <!--Mongo数据库名称 MinimumPoolSize=8;MaximumPoolSize=256;Pooled=true-->
+    <add key="MongoDbName" value="dispatchcenter"/>
+  </appSettings>
+  <connectionStrings>
+    <!--<add name="MongoConnStr" connectionString="mongodb://admin:admin@192.168.149.142:27017"/>
+    <add name="MongoFileConnStr" connectionString="mongodb://admin:admin@192.168.149.142:27017"/>-->
+    <add name="MongoConnStr" connectionString="Servers=192.168.1.104:27017;ConnectTimeout=30000;"/>
+    <add name="MongoFileConnStr" connectionString="Servers=192.168.1.104:27017"/>
+  </connectionStrings>
+
+</configuration>

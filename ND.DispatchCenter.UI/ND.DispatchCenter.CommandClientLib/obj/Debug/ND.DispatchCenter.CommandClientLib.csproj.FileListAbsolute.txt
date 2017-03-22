@@ -1,0 +1,8 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Debug\ND.DispatchCenter.CommandClientLib.dll.config
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Debug\ND.DispatchCenter.CommandClientLib.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Debug\ND.DispatchCenter.CommandClientLib.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Debug\FastSocket.Client.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Debug\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\bin\Debug\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Debug\ND.DispatchCenter.CommandClientLib.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.CommandClientLib\obj\Debug\ND.DispatchCenter.CommandClientLib.pdb

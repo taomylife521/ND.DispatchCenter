@@ -1,0 +1,15 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.exe
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\CommandClient.exe
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\CommandClient.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\FastSocket.Client.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.csprojResolveAssemblyReference.cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.CommandClientForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.Properties.Resources.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.csproj.GenerateResource.Cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Debug\CommandClient.exe.licenses
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\ND.DispatchCenter.CommandClientLib.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\ND.DispatchCenter.CommandClientLib.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Debug\CommandClient.exe.config

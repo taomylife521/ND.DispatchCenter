@@ -1,0 +1,11 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\ND.DispatchCenter.Command.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\ND.DispatchCenter.Command.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\ND.DispatchCenter.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\FastSocket.Server.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\NLog.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Debug\ND.DispatchCenter.Core.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Debug\ND.DispatchCenter.Command.csprojResolveAssemblyReference.cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Debug\ND.DispatchCenter.Command.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Debug\ND.DispatchCenter.Command.pdb

@@ -1,0 +1,9 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\bin\Debug\ND.DispatchCenter.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\bin\Debug\ND.DispatchCenter.Core.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\bin\Debug\FastSocket.Server.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\bin\Debug\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\bin\Debug\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\bin\Debug\NLog.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\obj\Debug\ND.DispatchCenter.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\obj\Debug\ND.DispatchCenter.Core.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Core\obj\Debug\ND.DispatchCenter.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,186 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\FastSocket.Server.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\MongoDB.Bson.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\MongoDB.Driver.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\NLog.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Config\TaskModuleConfig.txt
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.BonusSkins.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Charts.v14.2.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Data.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.ExpressApp.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.ExpressApp.Xpo.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Office.v14.2.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Persistent.Base.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Printing.v14.2.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.RichEdit.v14.2.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Sparkline.v14.2.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Spreadsheet.v14.2.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Utils.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Utils.v14.2.UI.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Xpo.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraBars.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraCharts.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraEditors.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraGrid.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraLayout.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraNavBar.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraPrinting.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraReports.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraReports.v14.2.Extensions.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraRichEdit.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraSpreadsheet.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraTreeList.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraVerticalGrid.v14.2.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\NLog.config
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.exe.config
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.exe
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\EntityFramework.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\FastSocket.Server.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\MongoDB.Driver.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\MongoDB.Bson.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.Core.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.csprojResolveAssemblyReference.cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.AddCommandConfigForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.AddCommandForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.CommandConfigForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.AddTaskConfigInfoForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.Form1.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.MonitorConfigInfoForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.Properties.Resources.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskModule.AddTaskModule.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskConfigInfoForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskDetailUserControl.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskModuleMangerUserControl.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.csproj.GenerateResource.Cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.exe.licenses
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.exe
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.exe.config
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.exe
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\NLog.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Config\TaskModuleConfig.txt
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.BonusSkins.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Charts.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Data.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.ExpressApp.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.ExpressApp.Xpo.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Office.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Persistent.Base.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Printing.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.RichEdit.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Sparkline.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Spreadsheet.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Utils.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Utils.v14.2.UI.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Xpo.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraBars.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraCharts.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraEditors.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraGrid.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraLayout.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraNavBar.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraPrinting.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraReports.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraReports.v14.2.Extensions.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraRichEdit.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraSpreadsheet.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraTreeList.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraVerticalGrid.v14.2.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\NLog.config
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.exe
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\EntityFramework.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.Core.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.AddCommandConfigForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.AddCommandForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.CommandConfigForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.AddTaskConfigInfoForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.Form1.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.MonitorConfigInfoForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.Properties.Resources.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskModule.AddTaskModule.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskConfigInfoForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskDetailUserControl.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskModuleMangerUserControl.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.csproj.GenerateResource.Cache
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.exe.licenses
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.exe.config
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.exe
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Lib\NLog.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Config\TaskModuleConfig.txt
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.BonusSkins.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Charts.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Data.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.ExpressApp.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.ExpressApp.Xpo.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Office.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Persistent.Base.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Printing.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.RichEdit.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Sparkline.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Spreadsheet.v14.2.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Utils.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Utils.v14.2.UI.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.Xpo.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraBars.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraCharts.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraEditors.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraGrid.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraLayout.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraNavBar.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraPrinting.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraReports.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraReports.v14.2.Extensions.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraRichEdit.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraSpreadsheet.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraTreeList.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\lib\DevExpress.XtraVerticalGrid.v14.2.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\NLog.config
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.exe
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.UI.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\EntityFramework.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\bin\Release\ND.DispatchCenter.Core.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.AddCommandConfigForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.AddCommandForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.ListenerModule.CommandConfigForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.AddTaskConfigInfoForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.Form1.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.MonitorConfigInfoForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.Properties.Resources.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskModule.AddTaskModule.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskConfigInfoForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskDetailUserControl.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.TaskModuleMangerUserControl.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.csproj.GenerateResource.Cache
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.UI\obj\Release\ND.DispatchCenter.UI.exe.licenses

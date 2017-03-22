@@ -1,0 +1,54 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\FastSocket.Server.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\MongoDB.Bson.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\MongoDB.Driver.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\NLog.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Command.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Command.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\FastSocket.Server.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Core.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\MongoDB.Driver.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\MongoDB.Bson.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Core.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.csprojResolveAssemblyReference.cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\NLog.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Command.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Command.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Core.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Core.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Lib\NLog.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Command.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Command.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\FastSocket.Server.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Core.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\MongoDB.Driver.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\MongoDB.Bson.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\bin\Release\ND.DispatchCenter.Core.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.UI\ND.DispatchCenter.Command\obj\Release\ND.DispatchCenter.Command.pdb

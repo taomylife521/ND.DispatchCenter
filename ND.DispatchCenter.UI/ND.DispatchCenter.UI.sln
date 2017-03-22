@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ND.DispatchCenter.UI", "ND.DispatchCenter.UI\ND.DispatchCenter.UI.csproj", "{F544A8FC-E802-42A8-B9C8-F6EB3898CEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ND.DispatchCenter.Core", "ND.DispatchCenter.Core\ND.DispatchCenter.Core.csproj", "{B2E2A32A-7EF7-4F12-B2A8-275A37A5E245}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ND.DispatchCenter.Test", "ND.DispatchCenter.Test", "{8CD01970-8278-4E33-96C6-96E06DA6A605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ND.DispatchCenter.Command", "ND.DispatchCenter.Command\ND.DispatchCenter.Command.csproj", "{5D7EE705-097E-4DA5-B59D-213B3164BF98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandClient", "..\ND.DispatchCenter.Test\CommandClient\CommandClient.csproj", "{4075E5E8-85B9-4293-BF24-68BA6D823817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ND.DispatchCenter.CommandClientLib", "ND.DispatchCenter.CommandClientLib\ND.DispatchCenter.CommandClientLib.csproj", "{A2F5F8CD-38E0-46C3-85E4-B76F43240161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F544A8FC-E802-42A8-B9C8-F6EB3898CEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F544A8FC-E802-42A8-B9C8-F6EB3898CEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F544A8FC-E802-42A8-B9C8-F6EB3898CEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F544A8FC-E802-42A8-B9C8-F6EB3898CEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E2A32A-7EF7-4F12-B2A8-275A37A5E245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E2A32A-7EF7-4F12-B2A8-275A37A5E245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E2A32A-7EF7-4F12-B2A8-275A37A5E245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E2A32A-7EF7-4F12-B2A8-275A37A5E245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7EE705-097E-4DA5-B59D-213B3164BF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7EE705-097E-4DA5-B59D-213B3164BF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7EE705-097E-4DA5-B59D-213B3164BF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7EE705-097E-4DA5-B59D-213B3164BF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4075E5E8-85B9-4293-BF24-68BA6D823817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4075E5E8-85B9-4293-BF24-68BA6D823817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4075E5E8-85B9-4293-BF24-68BA6D823817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4075E5E8-85B9-4293-BF24-68BA6D823817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2F5F8CD-38E0-46C3-85E4-B76F43240161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F5F8CD-38E0-46C3-85E4-B76F43240161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F5F8CD-38E0-46C3-85E4-B76F43240161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F5F8CD-38E0-46C3-85E4-B76F43240161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4075E5E8-85B9-4293-BF24-68BA6D823817} = {8CD01970-8278-4E33-96C6-96E06DA6A605}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

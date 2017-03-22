@@ -1,0 +1,45 @@
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.exe.config
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.exe
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\FastSocket.Client.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\FastSocket.SocketBase.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\Newtonsoft.Json.dll
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.csprojResolveAssemblyReference.cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.CommandClientForm.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.Properties.Resources.resources
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.csproj.GenerateResource.Cache
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.exe.licenses
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.exe
+D:\test Project\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.exe.config
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.exe
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\FastSocket.Client.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\bin\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.CommandClientForm.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.Properties.Resources.resources
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.csproj.GenerateResource.Cache
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.exe.licenses
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.exe
+D:\ND.Application\ND.DispatchCenter\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.exe.config
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.exe
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\CommandClient.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\FastSocket.Client.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\FastSocket.SocketBase.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\ND.DispatchCenter.CommandClientLib.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\Newtonsoft.Json.dll
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\bin\Release\ND.DispatchCenter.CommandClientLib.pdb
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.csprojResolveAssemblyReference.cache
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.CommandClientForm.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.Properties.Resources.resources
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.csproj.GenerateResource.Cache
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.exe.licenses
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.exe
+D:\ND.Application\ND.DispatchCenterBak\ND.DispatchCenter.Test\CommandClient\obj\Release\CommandClient.pdb

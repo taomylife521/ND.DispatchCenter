@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B2E2A32A-7EF7-4F12-B2A8-275A37A5E245}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ND.DispatchCenter.Core</RootNamespace>
+    <AssemblyName>ND.DispatchCenter.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastSocket.Server, Version=1.0.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\FastSocket.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="FastSocket.SocketBase, Version=1.0.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\FastSocket.SocketBase.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Bson, Version=1.8.2.34, Culture=neutral, PublicKeyToken=f686731cfb9cc103, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\MongoDB.Bson.dll</HintPath>
+    </Reference>
+    <Reference Include="MongoDB.Driver, Version=1.8.2.34, Culture=neutral, PublicKeyToken=f686731cfb9cc103, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\MongoDB.Driver.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extentions\AssemblyScanExtention.cs" />
+    <Compile Include="Extentions\MyGetEnumDisExtention.cs" />
+    <Compile Include="Helper\MongoDbHelper.cs" />
+    <Compile Include="Helper\MongoFileHelper.cs" />
+    <Compile Include="Helper\OperatorType.cs" />
+    <Compile Include="Helper\SystemInfo.cs" />
+    <Compile Include="Helper\SystemInfoHelper.cs" />
+    <Compile Include="InitializeModule\PlatformManger.cs" />
+    <Compile Include="ListenerModule\Command\AbstractCommand.cs" />
+    <Compile Include="ListenerModule\Command\CommandBuilder.cs" />
+    <Compile Include="ListenerModule\Command\CommandBuildOptions.cs" />
+    <Compile Include="ListenerModule\Command\CommandCollection.cs" />
+    <Compile Include="ListenerModule\Command\CommandCollectionExtention.cs" />
+    <Compile Include="ListenerModule\Command\CommandDescriptor.cs" />
+    <Compile Include="ListenerModule\Command\CommandEventArgs.cs" />
+    <Compile Include="ListenerModule\Command\CommandExtention.cs" />
+    <Compile Include="ListenerModule\Command\CommandProvider.cs" />
+    <Compile Include="ListenerModule\Command\CommandResult.cs" />
+    <Compile Include="ListenerModule\Command\CommandTaskProvider.cs" />
+    <Compile Include="ListenerModule\Command\CommandTaskQueue.cs" />
+    <Compile Include="ListenerModule\Command\ICommand.cs" />
+    <Compile Include="ListenerModule\Command\ICommandBuilder.cs" />
+    <Compile Include="ListenerModule\ExcuteSocketServerService.cs" />
+    <Compile Include="ListenerModule\PortType.cs" />
+    <Compile Include="ListenerModule\UIListener.cs" />
+    <Compile Include="LogModule\LogHelper.cs" />
+    <Compile Include="Helper\TaskHelper.cs" />
+    <Compile Include="ListenerModule\SocketServerService.cs" />
+    <Compile Include="LogModule\LogType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScanModule\DefaultAssemblyScan.cs" />
+    <Compile Include="ScanModule\DefaultCommandTypeScan.cs" />
+    <Compile Include="ScanModule\DefaultTaskTypeScan.cs" />
+    <Compile Include="ScanModule\IAssemblyScan.cs" />
+    <Compile Include="ScanModule\ITaskTypeScan.cs" />
+    <Compile Include="ScanModule\IScan.cs" />
+    <Compile Include="ScanModule\MongoAssemblyScan.cs" />
+    <Compile Include="TaskModule\AbstractTask.cs" />
+    <Compile Include="TaskModule\Dispose\TaskSafeDisposeTimeOutException.cs" />
+    <Compile Include="TaskModule\ITask.cs" />
+    <Compile Include="TaskModule\ITaskBuilder.cs" />
+    <Compile Include="TaskModule\RunStatus.cs" />
+    <Compile Include="TaskModule\RunTaskResult.cs" />
+    <Compile Include="TaskModule\TaskBuilder.cs" />
+    <Compile Include="TaskModule\TaskBuildOptions.cs" />
+    <Compile Include="TaskModule\TaskCollection.cs" />
+    <Compile Include="TaskModule\TaskDescriptor.cs" />
+    <Compile Include="TaskModule\Dispose\TaskDisposedState.cs" />
+    <Compile Include="TaskModule\Dispose\TaskSafeDispose.cs" />
+    <Compile Include="TaskModule\TaskDescriptorExtention.cs" />
+    <Compile Include="TaskModule\TaskEventArgs.cs" />
+    <Compile Include="TaskModule\TaskModuleAssemblyCollection.cs" />
+    <Compile Include="TaskModule\TaskModuleAssemblyDescriptor.cs" />
+    <Compile Include="TaskModule\TaskModuleCollectionExtention.cs" />
+    <Compile Include="TaskModule\TaskModuleDescriptor.cs" />
+    <Compile Include="TaskModule\TaskModuleCollection.cs" />
+    <Compile Include="TaskModule\TaskModuleEventArgs.cs" />
+    <Compile Include="TaskModule\TaskModuleProvider.cs" />
+    <Compile Include="TaskModule\TaskProvider.cs" />
+    <Compile Include="TaskModule\TaskRealTimeLogEventArgs.cs" />
+    <Compile Include="TaskModule\TaskWorkStatus.cs" />
+    <Compile Include="TestTask.cs" />
+    <Compile Include="TestTask2.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lib\FastSocket.Server.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Lib\FastSocket.SocketBase.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Lib\MongoDB.Bson.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Lib\MongoDB.Driver.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Lib\Newtonsoft.Json.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Lib\NLog.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
